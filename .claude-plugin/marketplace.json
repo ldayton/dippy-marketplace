@@ -11,8 +11,9 @@
       "description": "Approval autopilot — auto-approves safe commands, prompts for destructive ones",
       "category": "security",
       "source": {
-        "source": "url",
+        "source": "git-subdir",
         "url": "https://github.com/ldayton/Dippy.git",
+        "path": ".",
         "ref": "marketplace-release"
       },
       "homepage": "https://github.com/ldayton/Dippy"
