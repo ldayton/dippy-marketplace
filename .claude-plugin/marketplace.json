@@ -1,0 +1,20 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "dippy-marketplace",
+  "description": "Dippy — approval autopilot for AI coding assistants",
+  "owner": {
+    "name": "Lily Dayton"
+  },
+  "plugins": [
+    {
+      "name": "dippy",
+      "description": "Approval autopilot — auto-approves safe commands, prompts for destructive ones",
+      "category": "security",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/ldayton/Dippy.git"
+      },
+      "homepage": "https://github.com/ldayton/Dippy"
+    }
+  ]
+}
