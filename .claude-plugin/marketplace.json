@@ -12,7 +12,8 @@
       "category": "security",
       "source": {
         "source": "url",
-        "url": "https://github.com/ldayton/Dippy.git"
+        "url": "https://github.com/ldayton/Dippy.git",
+        "ref": "marketplace-release"
       },
       "homepage": "https://github.com/ldayton/Dippy"
     }
